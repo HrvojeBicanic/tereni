@@ -6,11 +6,11 @@
 --teren_id int
 --);
 
-create table card (
-id int,
-user_id int,
-iznos int,
-broj_kartice int,
-cvv int,
-istek_kartice varchar(45)
-);
+--create table card (
+--id int,
+--user_id int,
+--iznos int,
+--broj_kartice int,
+--cvv int,
+--istek_kartice varchar(45)
+--);
